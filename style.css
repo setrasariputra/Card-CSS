@@ -50,3 +50,35 @@ body {
 .color-pink {
     color: palevioletred
 }
+.topmenu {
+    background-color: #37495d;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.topmenu ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+.topmenu ul li {
+    display: inline-block;
+}
+.topmenu ul li a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
+.topmenu ul li a:hover {
+    background-color: #e84c3d;
+}
+ul.list {
+    list-style-type:none;
+}
+ul.list li {
+
+}
+ul.list li a {
+    text-decoration: none;
+}
