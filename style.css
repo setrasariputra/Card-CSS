@@ -14,13 +14,21 @@ body {
 .profile-pict {
     width: 200px;
     height: 200px;
-    background-image: url('profile.jpg');
     background-size: cover;
     margin: auto;
     border-radius: 100%;
     border: 20px solid #e4e6e5;
     margin-bottom: 20px;
     margin-top:20px;
+}
+.john-doe-pict {
+    background-image: url('profile.jpg');
+}
+.susanti-pict {
+    background-image: url('susanti.jpg');
+}
+.border-pink {
+    border: 20px solid palevioletred;
 }
 .profile-title {
     text-align: center;
